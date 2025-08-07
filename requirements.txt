@@ -4,6 +4,6 @@ websockets
 numpy
 pillow
 torch
-opencv-python
+opencv-python-headless
 facenet-pytorch
 python-multipart
