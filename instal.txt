@@ -1,0 +1,1 @@
+pip install fastapi uvicorn websockets pillow numpy facenet-pytorch opencv-python torch torchvision python-multipart
